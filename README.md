@@ -63,29 +63,8 @@ AI-powered grooming & fashion assistant.
 ### 🤖 RAIJIN AI
 Next-generation AI assistant and intelligent platform.
 
-### 📞 DialTone
-AI calling and communication platform.
-
 ### 🌐 Personal Portfolio
 Modern developer portfolio built with Next.js.
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anugrah2006-ui&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anugrah2006-ui&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=anugrah2006-ui&theme=github-dark&hide_border=true"/>
-
-</p>
 
 ---
 
