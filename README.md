@@ -110,9 +110,9 @@ Modern developer portfolio built with Next.js.
 
 📧 Email: anugrahtripathi2006@gmail.com
 
-💼 LinkedIn: *(Add your LinkedIn URL)*
+💼 LinkedIn: https://www.linkedin.com/in/anugrah-tripathi-96929032b/
 
-🌐 Portfolio: *(Add your portfolio URL)*
+🌐 Portfolio: https://portfolio-website-eta-liart-74.vercel.app/
 
 ---
 
