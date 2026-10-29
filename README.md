@@ -2,14 +2,7 @@
 
 <div align="center">
 
-  <img src="assets/brand-mark.svg" width="150" alt="Anugrah Tripathi custom purple developer monogram"/>
-
-  <br/>
-
-  <h1>ANUGRAH TRIPATHI</h1>
-  <h3><code>AI ENGINEERING · FULL-STACK DEVELOPMENT · PRODUCT BUILDING</code></h3>
-
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=720&lines=BUILDING+AI-POWERED+PRODUCTS;FULL-STACK+APPLICATIONS+%26+APIs;LLM+INTEGRATION+%C2%B7+ML+SYSTEMS+%C2%B7+AUTOMATION;TURNING+IDEAS+INTO+WORKING+SOFTWARE" alt="Typing banner: AI engineering, full-stack development, LLM integration and automation" />
+  <img src="assets/github-banner.svg" width="100%" alt="Anugrah Tripathi | AI Engineer, Software Developer, and Product Builder"/>
 
   <br/>
 
