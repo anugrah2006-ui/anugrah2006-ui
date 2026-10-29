@@ -11,9 +11,6 @@
   <a href="mailto:anugrahtripathi2006@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
   <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=anugrah2006-ui&style=flat-square&color=A855F7&label=PROFILE+VIEWS" alt="Profile view counter"/>
-
 </div>
 
 ---
