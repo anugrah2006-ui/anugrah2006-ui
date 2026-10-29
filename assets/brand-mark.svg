@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180" viewBox="0 0 180 180" role="img" aria-labelledby="title desc">
+  <title id="title">AT developer mark</title>
+  <desc id="desc">A minimal purple-gradient monogram for Anugrah Tripathi.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#171329"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#d8b4fe"/>
+      <stop offset="52%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect x="5" y="5" width="170" height="170" rx="34" fill="url(#bg)" stroke="#3c2b59" stroke-width="1.5"/>
+  <path d="M25 48H42M25 48V31M155 132H138M155 132V149" fill="none" stroke="#a855f7" stroke-width="2" stroke-linecap="round" opacity=".8"/>
+  <circle cx="137" cy="40" r="3" fill="#c084fc"/>
+  <circle cx="43" cy="140" r="3" fill="#818cf8"/>
+  <path d="M47 120L72 58H88L113 120M58 94H102" fill="none" stroke="url(#accent)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
+  <path d="M86 120L108 75L132 120M97 99H120" fill="none" stroke="#e9d5ff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M31 154H72" stroke="#a855f7" stroke-width="2" stroke-linecap="round" opacity=".8"/>
+  <circle cx="81" cy="154" r="2" fill="#c084fc"/>
+</svg>
