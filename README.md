@@ -2,6 +2,10 @@
 
 <div align="center">
 
+  <img src="assets/brand-mark.svg" width="150" alt="Anugrah Tripathi custom purple developer monogram"/>
+
+  <br/>
+
   <h1>ANUGRAH TRIPATHI</h1>
   <h3><code>AI ENGINEERING · FULL-STACK DEVELOPMENT · PRODUCT BUILDING</code></h3>
 
@@ -44,8 +48,8 @@ I build software at the intersection of AI and full-stack development. My projec
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,fastapi,flask,postgres,supabase,docker,git,github,vercel&perline=5&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,fastapi,flask,postgres,supabase,docker,git,github,vercel&perline=5&theme=light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,fastapi,flask,postgres,supabase,docker,git,github,vercel&perline=8&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,fastapi,flask,postgres,supabase,docker,git,github,vercel&perline=8&theme=light">
     <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,fastapi,flask,postgres,supabase,docker,git,github,vercel&perline=5&theme=dark" alt="Technologies: Python, Java, JavaScript, TypeScript, React, Next.js, Node.js, FastAPI, Flask, PostgreSQL, Supabase, Docker, Git, GitHub and Vercel"/>
   </picture>
 </div>
