@@ -98,20 +98,16 @@ I build software at the intersection of AI and full-stack development. My projec
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anugrah2006-ui&bg_color=0d1117&color=c9d1d9&line=A855F7&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
-
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=anugrah2006-ui&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&include_all_commits=true" height="165" alt="GitHub statistics card"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anugrah2006-ui&layout=compact&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&langs_count=8" height="165" alt="Most-used languages from public GitHub repositories"/>
+  <img src="https://ghchart.rshah.org/A855F7/anugrah2006-ui" alt="GitHub contribution calendar for anugrah2006-ui" width="100%"/>
 
   <br/><br/>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anugrah2006-ui/anugrah2006-ui/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anugrah2006-ui/anugrah2006-ui/output/snake.svg">
-    <img src="https://raw.githubusercontent.com/anugrah2006-ui/anugrah2006-ui/output/snake-dark.svg" alt="Contribution snake animation"/>
-  </picture>
+  <a href="https://github.com/anugrah2006-ui?tab=repositories"><img src="https://img.shields.io/badge/Public_Repositories-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore public repositories"/></a>
+  <a href="https://github.com/anugrah2006-ui?tab=followers"><img src="https://img.shields.io/badge/GitHub-Follow- A855F7?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/></a>
+
+  <br/><br/>
+
+  <sub>Contribution calendar is rendered separately from the stats-card services, which can be rate-limited or unavailable.</sub>
 
 </div>
 
