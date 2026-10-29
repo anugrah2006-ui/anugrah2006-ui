@@ -1,7 +1,7 @@
 # Anugrah Tripathi
 
 <p align="left">
-  <strong>AI Engineer · Full-Stack Developer · Founder, LEO TLSS</strong>
+  <strong>AI & Full-Stack Developer · Founder, LEO TLSS</strong>
 </p>
 
 I build AI-powered applications and full-stack products, with a focus on useful workflows, clear interfaces, and dependable backends.
@@ -19,7 +19,6 @@ I build AI-powered applications and full-stack products, with a focus on useful 
 | [End-to-End ML Pipeline API](https://github.com/anugrah2006-ui/End-to-End-Production-ML-Pipeline-API) | Demonstrates dataset validation, model training/evaluation, prediction endpoints, and basic monitoring. | Python, FastAPI, scikit-learn |
 | [Multi-class Sentiment & Emotion Analyzer](https://github.com/anugrah2006-ui/Multi-class-Sentiment-Emotion-Analyzer) | Analyzes sentiment and emotion, supports batch CSV workflows, and presents results in a dashboard. | FastAPI, Transformers, PyTorch, Next.js |
 | [HIRA V2](https://github.com/anugrah2006-ui/HIRA-V2) | Windows assistant with voice/text input, productivity commands, AI-provider fallback, and system controls. | Python, Gemini/Groq APIs |
-| [Bank Management System](https://github.com/anugrah2006-ui/bank-management-system) | Console-based account management with deposits, withdrawals, balance tracking, updates, and JSON persistence. | Python, JSON |
 
 ## Technical skills
 
