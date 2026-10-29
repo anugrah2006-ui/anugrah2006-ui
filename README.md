@@ -103,7 +103,7 @@ I build software at the intersection of AI and full-stack development. My projec
   <br/><br/>
 
   <a href="https://github.com/anugrah2006-ui?tab=repositories"><img src="https://img.shields.io/badge/Public_Repositories-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore public repositories"/></a>
-  <a href="https://github.com/anugrah2006-ui?tab=followers"><img src="https://img.shields.io/badge/GitHub-Follow- A855F7?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/></a>
+  <a href="https://github.com/anugrah2006-ui?tab=followers"><img src="https://img.shields.io/badge/GitHub-Follow-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/></a>
 
   <br/><br/>
 
