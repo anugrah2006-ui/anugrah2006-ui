@@ -1,100 +1,40 @@
-<h1 align="center">Hi 👋, I'm Anugrah Tripathi</h1>
+# Anugrah Tripathi
 
-<p align="center">
-  <b>AI & Full-Stack Developer</b> • Founder of <b>LEO TLSS</b>
+<p align="left">
+  <strong>AI Engineer · Full-Stack Developer · Founder, LEO TLSS</strong>
 </p>
 
-<p align="center">
-Building AI-powered products, scalable web applications, and automation systems.
-</p>
+I build AI-powered applications and full-stack products, with a focus on useful workflows, clear interfaces, and dependable backends.
+
+- 🎓 BCA student, graduating in 2027
+- 🔭 Building AI assistants, career tools, and ML-powered applications
+- 🧰 Working with Python, TypeScript, Next.js, FastAPI, Flask, and LLM APIs
+- 🌱 Improving my skills in model evaluation, deployment, and system design
+
+## Featured work
+
+| Project | What it does | Stack |
+|---|---|---|
+| [AI Career Coach & Resume Analyzer](https://github.com/anugrah2006-ui/AI-Career-Coach-Resume-Analyzer) | Accepts PDF/TXT resumes and generates structured, role-specific feedback using an LLM API. | Python, Flask, Groq |
+| [End-to-End ML Pipeline API](https://github.com/anugrah2006-ui/End-to-End-Production-ML-Pipeline-API) | Demonstrates dataset validation, model training/evaluation, prediction endpoints, and basic monitoring. | Python, FastAPI, scikit-learn |
+| [Multi-class Sentiment & Emotion Analyzer](https://github.com/anugrah2006-ui/Multi-class-Sentiment-Emotion-Analyzer) | Analyzes sentiment and emotion, supports batch CSV workflows, and presents results in a dashboard. | FastAPI, Transformers, PyTorch, Next.js |
+| [HIRA V2](https://github.com/anugrah2006-ui/HIRA-V2) | Windows assistant with voice/text input, productivity commands, AI-provider fallback, and system controls. | Python, Gemini/Groq APIs |
+| [Bank Management System](https://github.com/anugrah2006-ui/bank-management-system) | Console-based account management with deposits, withdrawals, balance tracking, updates, and JSON persistence. | Python, JSON |
+
+## Technical skills
+
+**Languages:** Python, JavaScript, TypeScript, SQL  
+**Frontend:** React, Next.js, Tailwind CSS  
+**Backend:** Flask, FastAPI, Node.js  
+**AI / ML:** LLM API integration, Hugging Face Transformers, PyTorch, scikit-learn  
+**Data & tools:** PostgreSQL, Supabase, Git, Docker, Vercel
+
+## Links
+
+- [Portfolio](https://portfolio-website-eta-liart-74.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/anugrah-tripathi-96929032b/)
+- [Email](mailto:anugrahtripathi2006@gmail.com)
 
 ---
 
-## 🚀 About Me
-
-- 🎓 BCA Student (2027)
-- 💻 AI & Full-Stack Developer
-- 🚀 Founder of **LEO TLSS**
-- 🌱 Currently building **Belle AI**, **RAIJIN AI**, and modern SaaS applications.
-- 📚 Learning System Design, AI Engineering, Cloud & DevOps
-- 🎯 Goal: Build products used by millions.
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frontend
-
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-
-### Database
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-
----
-
-# 🚀 Featured Projects
-
-### 🌟 Belle AI
-AI-powered grooming & fashion assistant.
-
-### 🤖 RAIJIN AI
-Next-generation AI assistant and intelligent platform.
-
-### 🌐 Personal Portfolio
-Modern developer portfolio built with Next.js.
-
----
-
-# 📊 Contribution Graph
-
-[![Anugrah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anugrah2006-ui&theme=github-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-# 🌱 Currently Learning
-
-- AI Engineering
-- LLMs & RAG
-- System Design
-- Cloud Computing
-- DevOps
-- Microservices
-
----
-
-# 📫 Connect With Me
-
-📧 Email: anugrahtripathi2006@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/anugrah-tripathi-96929032b/
-
-🌐 Portfolio: https://portfolio-website-eta-liart-74.vercel.app/
-
----
-
-<p align="center">
-⭐ If you like my work, consider following my journey.
-</p>
+*I value readable code, useful documentation, and projects that can be run and evaluated by someone other than their author.*
